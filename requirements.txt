@@ -1,0 +1,23 @@
+groq
+pytesseract
+pdf2image
+pillow
+pandas
+python-dotenv
+
+# API
+fastapi
+uvicorn
+python-multipart
+
+# Agentic AI
+langchain
+langgraph
+crewai
+
+# Vector Database
+chromadb
+sentence-transformers
+
+# Data Validation
+pydantic
